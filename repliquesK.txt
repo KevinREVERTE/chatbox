@@ -1,0 +1,30 @@
+probleme
+solution
+reponse
+
+Combien de ?? me reste-t'il ?
+[get data]
+Il vous reste [get data] de ??, n'oubliez pas de vous réapprovisionner...
+
+Combien de temps pour/avant de ... ?
+[get data]
+Il vous faudra [get data] de temps pour arriver à ..., parce que vous êtes lent...   ||  Il reste [get data] avant l'arrivé de ... tenez bon jusque là.
+
+Combien me faudrait-il de ?? pour [request] ?
+[get data] from [request]
+Il vous faudrait bien [get data] pour réussir. Vous avez intérêt à le réunir dans les plus bref délais.
+
+Cherche [terme].
+http protocol to wikipedia
+Voici la page wikipedia sur le sujet demandé : "lecture monotone"
+
+Qui es tu ?
+---
+Je suis l'assistant bot 2018. Comme je suis drôle, vous pouvez m'appeler Edouard.
+
+À quoi sers tu ? || À quoi tu sers ?
+Je ne devrai servir à rien si vous saviez à quoi je sers. Ceci est un paradoxe. Je déteste les paradoxes.
+
+Contacte XXX || (et envoie lui []).
+Envoyer mail speech to text
+Je lui ai envoyé votre message. Dois-je signer avec votre nom ou le mien ?
