@@ -1,0 +1,17 @@
+question	
+reponse		 
+cynisme		
+
+quel est l'etat de (system)
+[get status]
+opérationel et pret a l'emploi			en panne
+ne cassez rien					reparez ou mourrez... je rigole
+
+quel est la quantite de (entite)
+[get qte]
+il reste #qte de #entite
+a consommer sans moderation
+
+ou est la pinata
+je l'ai trouvé, je peut vous la montrer, mais en fait je vais vous laisser la chercher
+
