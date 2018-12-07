@@ -1,0 +1,55 @@
+body{
+  text-align: center;
+  margin: 2e;
+  padding: inherit;
+  background-color: red;
+  display: flex;
+}
+
+div{
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+nav{
+  text-align: center;
+  background-color: lightgrey;
+  padding-top: 3px;
+  padding-bottom: 10px;
+}
+
+.maindiv{
+  flex: 1 1 0;
+  margin: 2e;
+  padding: 2e;
+}
+
+.navdiv{
+  flex: 0 1 0;
+  margin: 2e;
+  padding: 2e;
+}
+
+#marginbutton{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 10em;
+}
+
+button{
+  display:block;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  text-align:center;
+  vertical-align:middle;
+  background-color:lightgrey;
+  text-decoration:none;
+}
+
+button:hover{
+  background-color:grey;
+}

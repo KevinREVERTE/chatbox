@@ -28,3 +28,11 @@ Je ne devrai servir à rien si vous saviez à quoi je sers. Ceci est un paradoxe
 Contacte XXX || (et envoie lui []).
 Envoyer mail speech to text
 Je lui ai envoyé votre message. Dois-je signer avec votre nom ou le mien ?
+
+Quelle direction dois-je prendre ?
+[get data]
+Vous devriez aller vers [get data]
+
+Dans quel état est ... ?
+[get data]
+Le/la ... est dans un état [get data]
